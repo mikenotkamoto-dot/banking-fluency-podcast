@@ -11,7 +11,17 @@
 <itunes:type>episodic</itunes:type>
 <itunes:category text="Education"/>
 <itunes:image href="https://mikenotkamoto-dot.github.io/banking-fluency-podcast/cover.png"/>
-<lastBuildDate>Wed, 08 Jul 2026 15:18:55 GMT</lastBuildDate>
+<lastBuildDate>Thu, 09 Jul 2026 19:41:51 GMT</lastBuildDate>
+<item>
+<title>Day 002: Deposits Are Liabilities</title>
+<description>Banking Fluency Day 002: Deposits Are Liabilities. A regulated-financial-institution fluency lesson for Bitcoin-age operators.</description>
+<itunes:summary>Banking Fluency Day 002: Deposits Are Liabilities. A regulated-financial-institution fluency lesson for Bitcoin-age operators.</itunes:summary>
+<pubDate>Thu, 09 Jul 2026 19:41:27 GMT</pubDate>
+<guid isPermaLink="false">banking-fluency-002-50f6c3d9a250</guid>
+<enclosure url="https://mikenotkamoto-dot.github.io/banking-fluency-podcast/episodes/2026-07-09-day-002-deposits-are-liabilities/notebooklm-day-002-deposits-are-liabilities.mp3" length="37124943" type="audio/mpeg"/>
+<itunes:episode>2</itunes:episode>
+<itunes:duration>00:19:20</itunes:duration>
+</item>
 <item>
 <title>Day 001: What Is A Bank</title>
 <description>Banking Fluency Day 001: What Is A Bank. A regulated-financial-institution fluency lesson for Bitcoin-age operators.</description>

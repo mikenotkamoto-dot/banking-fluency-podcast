@@ -11,7 +11,17 @@
 <itunes:type>episodic</itunes:type>
 <itunes:category text="Education"/>
 <itunes:image href="https://mikenotkamoto-dot.github.io/banking-fluency-podcast/cover.png"/>
-<lastBuildDate>Sun, 19 Jul 2026 08:15:00 GMT</lastBuildDate>
+<lastBuildDate>Mon, 20 Jul 2026 08:15:01 GMT</lastBuildDate>
+<item>
+<title>Day 011: Liquidity And Solvency Iii Bank Runs And Contagion</title>
+<description>Banking Fluency Day 011: Liquidity And Solvency Iii Bank Runs And Contagion. A regulated-financial-institution fluency lesson for Bitcoin-age operators.</description>
+<itunes:summary>Banking Fluency Day 011: Liquidity And Solvency Iii Bank Runs And Contagion. A regulated-financial-institution fluency lesson for Bitcoin-age operators.</itunes:summary>
+<pubDate>Mon, 20 Jul 2026 03:21:24 GMT</pubDate>
+<guid isPermaLink="false">banking-fluency-011-b3d380ccfb5f</guid>
+<enclosure url="https://mikenotkamoto-dot.github.io/banking-fluency-podcast/episodes/2026-07-19-day-011-liquidity-and-solvency-iii-bank-runs-and-contagion/banking-fluency-day-011.mp3" length="20729658" type="audio/mpeg"/>
+<itunes:episode>11</itunes:episode>
+<itunes:duration>00:21:35</itunes:duration>
+</item>
 <item>
 <title>Day 006: Credit I Underwriting And Expected Repayment</title>
 <description>Banking Fluency Day 006: Credit I Underwriting And Expected Repayment. A regulated-financial-institution fluency lesson for Bitcoin-age operators.</description>

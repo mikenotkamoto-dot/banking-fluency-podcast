@@ -11,7 +11,7 @@
 <itunes:type>episodic</itunes:type>
 <itunes:category text="Education"/>
 <itunes:image href="https://mikenotkamoto-dot.github.io/banking-fluency-podcast/cover.png"/>
-<lastBuildDate>Mon, 20 Jul 2026 08:15:01 GMT</lastBuildDate>
+<lastBuildDate>Mon, 20 Jul 2026 09:33:51 GMT</lastBuildDate>
 <item>
 <title>Day 011: Liquidity And Solvency Iii Bank Runs And Contagion</title>
 <description>Banking Fluency Day 011: Liquidity And Solvency Iii Bank Runs And Contagion. A regulated-financial-institution fluency lesson for Bitcoin-age operators.</description>
@@ -21,6 +21,46 @@
 <enclosure url="https://mikenotkamoto-dot.github.io/banking-fluency-podcast/episodes/2026-07-19-day-011-liquidity-and-solvency-iii-bank-runs-and-contagion/banking-fluency-day-011.mp3" length="20729658" type="audio/mpeg"/>
 <itunes:episode>11</itunes:episode>
 <itunes:duration>00:21:35</itunes:duration>
+</item>
+<item>
+<title>Day 010: Liquidity And Solvency Ii Funding And Liquid Assets</title>
+<description>Banking Fluency Day 010: Liquidity And Solvency Ii Funding And Liquid Assets. A regulated-financial-institution fluency lesson for Bitcoin-age operators.</description>
+<itunes:summary>Banking Fluency Day 010: Liquidity And Solvency Ii Funding And Liquid Assets. A regulated-financial-institution fluency lesson for Bitcoin-age operators.</itunes:summary>
+<pubDate>Sun, 19 Jul 2026 03:24:22 GMT</pubDate>
+<guid isPermaLink="false">banking-fluency-010-00cf4ca215a6</guid>
+<enclosure url="https://mikenotkamoto-dot.github.io/banking-fluency-podcast/episodes/2026-07-18-day-010-liquidity-and-solvency-ii-funding-and-liquid-assets/banking-fluency-day-010.mp3" length="22271510" type="audio/mpeg"/>
+<itunes:episode>10</itunes:episode>
+<itunes:duration>00:23:11</itunes:duration>
+</item>
+<item>
+<title>Day 009: Liquidity And Solvency I The Distinction</title>
+<description>Banking Fluency Day 009: Liquidity And Solvency I The Distinction. A regulated-financial-institution fluency lesson for Bitcoin-age operators.</description>
+<itunes:summary>Banking Fluency Day 009: Liquidity And Solvency I The Distinction. A regulated-financial-institution fluency lesson for Bitcoin-age operators.</itunes:summary>
+<pubDate>Sat, 18 Jul 2026 03:21:35 GMT</pubDate>
+<guid isPermaLink="false">banking-fluency-009-2eb8bce325a1</guid>
+<enclosure url="https://mikenotkamoto-dot.github.io/banking-fluency-podcast/episodes/2026-07-17-day-009-liquidity-and-solvency-i-the-distinction/banking-fluency-day-009.mp3" length="23302615" type="audio/mpeg"/>
+<itunes:episode>9</itunes:episode>
+<itunes:duration>00:24:16</itunes:duration>
+</item>
+<item>
+<title>Day 008: Credit Iii Concentration And The Credit Cycle</title>
+<description>Banking Fluency Day 008: Credit Iii Concentration And The Credit Cycle. A regulated-financial-institution fluency lesson for Bitcoin-age operators.</description>
+<itunes:summary>Banking Fluency Day 008: Credit Iii Concentration And The Credit Cycle. A regulated-financial-institution fluency lesson for Bitcoin-age operators.</itunes:summary>
+<pubDate>Fri, 17 Jul 2026 03:22:35 GMT</pubDate>
+<guid isPermaLink="false">banking-fluency-008-2072aeffb59a</guid>
+<enclosure url="https://mikenotkamoto-dot.github.io/banking-fluency-podcast/episodes/2026-07-16-day-008-credit-iii-concentration-and-the-credit-cycle/banking-fluency-day-008.mp3" length="22016555" type="audio/mpeg"/>
+<itunes:episode>8</itunes:episode>
+<itunes:duration>00:22:55</itunes:duration>
+</item>
+<item>
+<title>Day 007: Credit Ii Collateral Reserves And Loss Severity</title>
+<description>Banking Fluency Day 007: Credit Ii Collateral Reserves And Loss Severity. A regulated-financial-institution fluency lesson for Bitcoin-age operators.</description>
+<itunes:summary>Banking Fluency Day 007: Credit Ii Collateral Reserves And Loss Severity. A regulated-financial-institution fluency lesson for Bitcoin-age operators.</itunes:summary>
+<pubDate>Thu, 16 Jul 2026 03:26:10 GMT</pubDate>
+<guid isPermaLink="false">banking-fluency-007-d67c680b7673</guid>
+<enclosure url="https://mikenotkamoto-dot.github.io/banking-fluency-podcast/episodes/2026-07-15-day-007-credit-ii-collateral-reserves-and-loss-severity/banking-fluency-day-007.mp3" length="20147859" type="audio/mpeg"/>
+<itunes:episode>7</itunes:episode>
+<itunes:duration>00:20:59</itunes:duration>
 </item>
 <item>
 <title>Day 006: Credit I Underwriting And Expected Repayment</title>
